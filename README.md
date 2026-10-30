@@ -1,13 +1,9 @@
-# Cars Dealership — Full-Stack Capstone Project
+# Cars Dealership Application
 
-This project is a full-stack Cars Dealership application developed using React, Django, Node.js, and MongoDB.
+**Repository Name:** xrwvm-fullstack_developer_capstone
 
-The application allows users to browse car dealerships, view dealer details, explore car makes and models, and submit dealership reviews.
+**Project Name:** Cars Dealership Application
 
-## Technologies Used
-- React
-- Django
-- Node.js and Express
-- MongoDB
-- SQLite
-- Python and JavaScript
+## Project Description
+
+The Cars Dealership Application is a full-stack web application developed using Django, React, Python, and MongoDB. It allows users to browse car dealerships, view dealership details, register, log in, and submit reviews.
